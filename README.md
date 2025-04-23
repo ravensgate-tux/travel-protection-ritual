@@ -86,4 +86,5 @@ Ravensgateプロジェクトの一環として、本棚神殿と現代的ツー�
 
 ## 🔓 ライセンス
 
-本プロトコルは非商用・改変自由・クレジット表記のもと、Creative Commons BY 4.0にて公開されています。
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
